@@ -25,5 +25,5 @@ Apart from interesting real world applications of bike sharing systems, the char
 ##How to Use
 
 The code is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook.
-Open ``demo.py`` and run the cells in a Python 3 environment.
+Open ``bike-sharing-neural-net.ipynb`` and run the cells in a Python 3 environment.
 
